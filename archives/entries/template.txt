@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link href="style.css" rel="stylesheet" type="text/css" />
+   <title>it's as shrimple as that !</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    
+     <body>
+           <ul>
+        <li><a class="active" href="/index.html">Home</a></li>
+  <li><a href="#news">History</a></li>
+  <li><a href="/archives/index.html">Archives</a></li>
+  <li><a href="#about">idk fourth test item</a></li>
+    </ul>
+       <br><br>
+             <a class="link" style="font-size: 30px;" href="/archives/index.html">⟻Back to Index 
+        <div class="linkblur1" style="top: -2.2rem;">⟻Back to Index</div></a>
+       <br><br>
+       <div class="entryinfo">
+       <h2>
+         Info: 
+       </h2>
+         Subject Name(s): Unknown<br>
+         Approximate Date: Unknown<br>
+         Retrieved From: Unknown<br>
+         Archive Type: Packed/Scattered<br>
+         Archive ID: #00<br>
+         Entry ID: #000<br>
+       </div>
+ <div class="papernote">
+<b>NamePlaceHolder</b>
+   <br>
+  <b> Entry #192</b>
+   <br><br>
+
+         </div>
+     </body>
+  </head>
+</html>
