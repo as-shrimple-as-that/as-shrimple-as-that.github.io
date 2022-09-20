@@ -1,0 +1,67 @@
+/*
+<div class="name">
+*/
+
+html,body
+{
+font-family:Geneva,sans-serif; margin-left: 0px; padding-left: 15px; padding-top: 20px; color: #ffffff; background-image: url('https://imgur.com/yClhwZa.png'); background-repeat: repeat;
+}
+
+.papernote
+{
+width: 23vw; height: 63vh; background: #ffebe1; border: 1.5px solid #000; box-shadow: inset 0 0 30px 2px #000; position: relative; padding: 1em 1em 1em 1em; margin: 0.1em; color: #000; font-size: 108%; letter-spacing: 0.1px; line-height: 175%; overflow-y: auto; overflow-x: hidden;
+}
+
+.papernote-red
+{
+width: 23vw; height: 63vh; background: #ffebe1; border: 1.5px solid #000; box-shadow: inset 0 0 50px 20px #4d0000; position: relative; padding: 1em 1em 1em 1em; margin: 0.1em; color: #000; font-size: 108%; letter-spacing: 0.1px; line-height: 175%; overflow-y: auto; overflow-x: hidden;
+}
+
+.div1
+{ 
+  font-size: 100px;
+}
+
+.entryinfo {
+  font-family:Inconsolata,monospace; background: #000000; padding: 0.005em 1em 1.5em 1em; box-shadow: inset 0 0 30px 2px #00ff00; color: #00ff00; max-width: 25%
+}
+
+.entryinfo-noinfo {
+  font-family:Inconsolata,monospace; background: #000000; padding: 1em 1em 1.5em 1em; box-shadow: inset 0 0 30px 2px #ffff00; color: #ffff00; max-width: 25%; font-size: 30px
+}
+
+.entryinfo-accessdenied {
+  font-family:Inconsolata,monospace; background: #000000; padding: 1em 1em 1.5em 1em; box-shadow: inset 0 0 30px 2px #ff0000; color: #ff0000; max-width: 30%; font-size: 30px
+}
+
+.link
+{
+  color: #3dabff; font-weight: bold; box-shadow:
+}
+
+.linkblur1 {
+  color: #3dabff; font-weight: bold; text-decoration: underline; filter: blur(3px); -webkit-filter: blur(5px); font-size: 30px; position: relative;
+      }
+
+.linkblur0 {
+  color: #3dabff; font-weight: bold; text-decoration: underline; filter: blur(3px); -webkit-filter: blur(3px); position: relative;
+      }
+
+ul {
+  list-style-type: none; margin-left: -2em; margin-top: 0em; border: 0px; padding: 0px; overflow: hidden; background-color: #333; position: fixed; top: 0; width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active { background-color: #04AA6D;
+}
+}
